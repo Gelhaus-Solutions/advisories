@@ -7,7 +7,7 @@ Use GAdvisory to report vulnerabilities of our projects to us privately, or use 
 
 | Name | Link | Disclosures | E-Mail |
 | ---- | ---- | ----------- | ------ |
-| CoBC Event Tracker | [Click here](https://advisory.ennogelhaus.de/public/gelhaus-solutions/public/cobc-et) | Yes! | [E-Mail](mailto:sec+cobc-et@ennogelhaus.de) |
+| CoBC Event Tractker | [Click here](https://advisory.ennogelhaus.de/public/gelhaus-solutions/public/cobc-et) | Yes! | [E-Mail](mailto:sec+cobc-et@ennogelhaus.de) |
 | AJC Discord Bot | [Click here](https://advisory.ennogelhaus.de/public/gelhaus-solutions/public/ajc-dc-bot) | No. | None |
 | DiscordTickets Enhanced | [Click here](https://advisory.ennogelhaus.de/public/gelhaus-solutions/public/discordtickets-enhanced) | Yes! | [E-Mail](mailto:sec+dt-enhanced@ennogelhaus.de) |
 | GAdvisory | [Click here](https://advisory.ennogelhaus.de/public/gelhaus-solutions/public/gadvisory) | Yes! | [E-Mail](mailto:sec+gadvisory@ennogelhaus.de) |
