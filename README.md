@@ -11,4 +11,5 @@ Use GAdvisory to report vulnerabilities of our projects to us privately, or use 
 | AJC Discord Bot | [Click here](https://advisory.ennogelhaus.de/public/gelhaus-solutions/public/ajc-dc-bot) | No. | None |
 | DiscordTickets Enhanced | [Click here](https://advisory.ennogelhaus.de/public/gelhaus-solutions/public/discordtickets-enhanced) | Yes! | [E-Mail](mailto:sec+dt-enhanced@ennogelhaus.de) |
 | GAdvisory | [Click here](https://advisory.ennogelhaus.de/public/gelhaus-solutions/public/gadvisory) | Yes! | [E-Mail](mailto:sec+gadvisory@ennogelhaus.de) |
+| Contribution Checker | [Click here](https://gadvisory.org/public/gelhaus-solutions/public/contributor-check) | Yes! | [E-Mail](mailto:sec+contribute-check@ennogelhaus.de] |
 
